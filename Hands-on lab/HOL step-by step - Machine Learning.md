@@ -174,13 +174,13 @@ In this exercise, you will create a model that predicts battery failure from tim
 
 10.  Select the `Time series forecasting` task type and provide the following values and then select **View additional configuration settings**:
 
-    - **Time column**: `Date`
+     - **Time column**: `Date`
 
-    - **Time series identifier(s)**: `Battery_ID`
+     - **Time series identifier(s)**: `Battery_ID`
 
-    - **Forecast horizon**: `30`
+     - **Forecast horizon**: `30`
 
-    ![The Select task type form is populated with the values outlined above. The View additional configuration settings link is highlighted.](images/automl-configure-task-01.png 'Configure time series forecasting task')
+     ![The Select task type form is populated with the values outlined above. The View additional configuration settings link is highlighted.](images/automl-configure-task-01.png 'Configure time series forecasting task')
 
 11. For the automated machine learning run additional configurations, provide the following values and then select **Save**:
 
